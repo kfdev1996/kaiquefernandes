@@ -1,22 +1,26 @@
-## 👋 **Olá, eu sou _Kaíque Fernandes_!**
+## 👋 Olá, eu sou _Kaíque Fernandes_!
 ### 🚀 _Quality Assurance | Testes Automatizados | Testes Manuais_
 
 🔹 **_Analista de Testes / QA_** apaixonado por qualidade de software, automação de testes e metodologias ágeis. Busco sempre aprimorar minhas habilidades para garantir que produtos sejam entregues com alta confiabilidade.
 
 ---
 
+### 📊 **Minhas Estatísticas no GitHub**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+---
+
 ### 🛠️ **Tecnologias e Ferramentas:**
 
-- 🏗️ **Testes Automatizados:** _Cypress, Selenium_  
-  ➡️ _Ferramentas populares para automação de testes em aplicações web._
-- 🔎 **Testes Manuais:** _Postman, Insomnia_  
-  ➡️ _Utilizados para testar APIs de forma manual antes da automação._
-- 💻 **Performance:** _JMeter_  
-  ➡️ _Simula carga e estresse para avaliar a performance de sistemas._
-- 🔄 **Versionamento:** _Git, GitHub, GitActions_  
-  ➡️ _Controle de versões para manter código organizado e rastreável._
-- 📜 **Metodologias:** _Scrum_  
-  ➡️ _Framework ágil para gerenciamento de projetos._
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</div>
 
 ---
 
@@ -29,11 +33,20 @@
 
 ---
 
+### 🌎 **Conecte-se Comigo**:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaique-fernandes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kaique.fernandes@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
 ---
-
-### 📫 **Contato:**
-
-💼 **_LinkedIn:_** [linkedin.com/in/kaiquefernandess](https://www.linkedin.com/in/kaiquefernandess)  
-📧 **_E-mail:_** _kaique.1996@email.com_  
 
 Seja bem-vindo ao meu perfil e sinta-se à vontade para se conectar comigo! 😃
