@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou _Kaíque Fernandes_!
+## 👋 **Olá, eu sou _Kaíque Fernandes_!**
 ### 🚀 _Quality Assurance | Testes Automatizados | Testes Manuais_
 
 🔹 **_Analista de Testes / QA_** apaixonado por qualidade de software, automação de testes e metodologias ágeis. Busco sempre aprimorar minhas habilidades para garantir que produtos sejam entregues com alta confiabilidade.
@@ -14,12 +14,24 @@
 ### 🛠️ **Tecnologias e Ferramentas:**
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.cypress.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
 </div>
 
 ---
@@ -40,9 +52,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:kaique.1996@live.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="https://github.com/kfdev1996">
+  <a href="https://github.com/kfdev1996" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
