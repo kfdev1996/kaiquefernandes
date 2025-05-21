@@ -1,4 +1,5 @@
-👋🏼 Olá! Eu sou Kaíque Fernandes
+👋🏼 Welcome my friend! Eu sou Kaíque Fernandes
+
 🚀 Quality Assurance | Testes Automatizados | Testes Manuais
 Sou um Analista de Testes (QA) movido pela paixão em garantir a qualidade e confiabilidade de sistemas. Atuo na automação de testes e sou entusiasta de metodologias ágeis, buscando constantemente evoluir minhas habilidades e contribuir para o desenvolvimento de software com excelência.
 
